@@ -3,3 +3,5 @@ pandas
 reportlab
 openpyxl
 pillow
+gspread 
+oauth2client
